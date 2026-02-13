@@ -117,7 +117,7 @@ No synthetic or manually generated rewards were used.
 - Model trained to predict User1/User2/User3
 - Evaluated using classification_report
 
-Validation Accuracy: **[91.5]**
+Validation Accuracy: **[91.5%]**
 
 Classifier serves as Context Detector.
 
