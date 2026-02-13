@@ -8,7 +8,7 @@
 
 ---
 
-# Student Submission Checklist (Completed)
+# Student Submission Checklist
 
 ## Repository and Branching
 - [x] Repository created correctly on GitHub
